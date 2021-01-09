@@ -1,16 +1,14 @@
-### Hi there 👋
+## 👋 Hello World!/Hola Mundo!
+---
 
-<!--
-**dsvlivon/Dsvlivon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+_Soy estudiante de Programación en la UTN, tengo conocimienos de POO con C# (IDE VStudio) y de frontend como HTML, CSS (nativo y librería Boostrap) y JavaScript_
 
-Here are some ideas to get you started:
+- Where to find me/ Donde contactarme: dsvlivon@gmail.com
+- My work profile / Mi perfil laboral: [LinkedIn](https://www.linkedin.com/in/dsvlivon/)
+- About me / Sobre mi: Villegas Basketball captain and Industrial Designer/ Capitán de Villegas Basket y Diseñador industrial
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Currently / Actualmente:
+---
+- Working / Trabajando:No
+- Looking for a Job / Buscando trabajo: Yes/Si
+- Learning / Aprendiendo: python, abap
