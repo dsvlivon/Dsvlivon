@@ -16,8 +16,8 @@ const dani = {
 ### More about me
 ---
 - Where to find me/ Donde contactarme: dsvlivon@gmail.com
-- <a href="https://linkedin.com/in/asd" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="asd" height="15" width="20" /></a>My work profile / Mi perfil laboral: [LinkedIn](https://www.linkedin.com/in/dsvlivon/)
-- <a href="https://dribbble.com/asd" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg" alt="asd" height="15" width="20" /></a>About me / Sobre mi: Villegas Basketball captain and Industrial Designer/ Capitán de Villegas Basket y Diseñador industrial
+- My work profile / Mi perfil laboral:  <a href="https://linkedin.com/in/asd" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="asd" height="15" width="20" /></a>[LinkedIn](https://www.linkedin.com/in/dsvlivon/)
+- About me / Sobre mi: <a href="https://dribbble.com/asd" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg" alt="asd" height="15" width="20" /></a>Villegas Basketball captain and Industrial Designer/ Capitán de Villegas Basket y Diseñador industrial
 
 #### Currently / Actualmente:
 
