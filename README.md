@@ -4,15 +4,17 @@ _Soy Daniel, estudiante de Programación en la UTN / I´m Daniel, Programming st
 
 ```
 const dani = {
-	code: [C, 'C# (.NETFramwork)', JS, Pyhton],
-	dataBase: [MongoDB, MySQL],
+	code: ['C', 'C# (.NETFramwork)'],
+	cuurentLearning:[ 'JS', 'Pyhton','PHP'],
+	dataBase: [MongoDB, MySQL, 'PHPMyAdmin'],
 	tools:[POO, frontend, html, 'css(native and Boostrap Library)'],
 	otherSoftwares:[Photoshop, Illustrator, CorelDraw, SolidWorks, SolidEdge, AutoCad3D]
 	skills: {
-      			languages: "English & Spanish",
-			      teamWork: "Excellent",
-			      willToLearn: "Always On"}
-	challenge: "Start my developer career and learn as much as possible."}			
+      			English = TRUE,
+                        TeamWork: TRUE,
+		        willToLearn: TRUE}
+	challenge: "Start my developer career and learn as much as possible."
+	}			
 ```
 ### More about me
 ---
@@ -22,7 +24,7 @@ const dani = {
 
 #### Currently / Actualmente:
 
-- Working / Trabajando:No
-- Looking for a Job / Buscando trabajo: Yes/Si
-- Learning / Aprendiendo: python, abap
+- Working / Trabajando: Si/Yes
+- Looking for a Job / Buscando trabajo: No/No
+
 
